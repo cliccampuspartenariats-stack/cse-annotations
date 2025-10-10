@@ -3603,4 +3603,8 @@
 <Annotation about="https://sprich-deutsch.de/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://lefrancaisdesaffaires.fr/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://lefrancaisdesaffaires.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://cygnus-formations.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://cygnus-formations.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://caminobarcelona.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://caminobarcelona.fr/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
