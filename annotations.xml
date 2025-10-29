@@ -3905,4 +3905,16 @@
 <Annotation about="https://health.belgium.be/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://hal.sorbonne-universite.fr/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://hal.sorbonne-universite.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://agence.erasmusplus.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://agence.erasmusplus.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://mediatheques.montpellier3m.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://mediatheques.montpellier3m.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://epargnonsnosressources.gouv.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://epargnonsnosressources.gouv.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://inspe.univ-toulouse.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://inspe.univ-toulouse.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://etu.u-bordeaux-montaigne.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://etu.u-bordeaux-montaigne.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://eco.univ-rennes.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://eco.univ-rennes.fr/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
