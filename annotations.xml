@@ -4835,4 +4835,10 @@
 <Annotation about="https://reseau-canope.fr/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://works.swarthmore.edu/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://works.swarthmore.edu/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://maison-rhenanie-palatinat.org/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://maison-rhenanie-palatinat.org/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://wbi.be/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://wbi.be/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://hablemosconmily.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://hablemosconmily.com/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
