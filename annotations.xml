@@ -4913,4 +4913,6 @@
 <Annotation about="https://deloitte.com/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://europe-bordeaux.eu/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://europe-bordeaux.eu/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://ftc.gov/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://ftc.gov/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
