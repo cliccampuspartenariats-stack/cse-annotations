@@ -4935,4 +4935,6 @@
 <Annotation about="https://prodigygame.com/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://cambridge.org/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://cambridge.org/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://librairie.bod.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://librairie.bod.fr/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
