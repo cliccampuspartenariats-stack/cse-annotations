@@ -5167,4 +5167,8 @@
 <Annotation about="https://atanet.org/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://webnode.com/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://webnode.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://cultissime.substack.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://cultissime.substack.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://bibliotheques.paris.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://bibliotheques.paris.fr/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
