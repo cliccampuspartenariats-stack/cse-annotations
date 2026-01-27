@@ -5337,4 +5337,10 @@
 <Annotation about="https://abczaam.be/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://techsmith.com/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://techsmith.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://diva-portal.org/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://diva-portal.org/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://thinkinginenglish.blog/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://thinkinginenglish.blog/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://skivehandel.dk/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://skivehandel.dk/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
