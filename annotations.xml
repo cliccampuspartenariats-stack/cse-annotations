@@ -5375,4 +5375,16 @@
 <Annotation about="https://wix.com/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://fluentbe.com/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://fluentbe.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://globexs.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://globexs.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://nos-langues.canada.ca/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://nos-langues.canada.ca/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://sprachcaffe-frankfurt.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://sprachcaffe-frankfurt.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://legal.thomsonreuters.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://legal.thomsonreuters.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://bau.edu/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://bau.edu/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://pro.alfaforni.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://pro.alfaforni.com/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
