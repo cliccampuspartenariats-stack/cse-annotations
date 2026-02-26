@@ -5397,4 +5397,8 @@
 <Annotation about="https://mjcroguet.fr/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://jamf.com/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://jamf.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://ch.linkedin.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://ch.linkedin.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://patpat.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://patpat.com/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
