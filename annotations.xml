@@ -5453,4 +5453,16 @@
 <Annotation about="https://mfsva.gouvernement.lu/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://blog.aveine.paris/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://blog.aveine.paris/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://prolinguis.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://prolinguis.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://bosa.belgium.be/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://bosa.belgium.be/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://bm-lyon.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://bm-lyon.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://centremultiservice.ca/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://centremultiservice.ca/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://bibliotheque.bordeaux.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://bibliotheque.bordeaux.fr/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://idbinvest.org/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://idbinvest.org/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
