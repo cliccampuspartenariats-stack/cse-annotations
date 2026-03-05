@@ -5465,4 +5465,8 @@
 <Annotation about="https://bibliotheque.bordeaux.fr/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="http://idbinvest.org/*"><Label name="_exclude_"/></Annotation>
 <Annotation about="https://idbinvest.org/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://hbr.org/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://hbr.org/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="http://coupa.com/*"><Label name="_exclude_"/></Annotation>
+<Annotation about="https://coupa.com/*"><Label name="_exclude_"/></Annotation>
 </Annotations>
